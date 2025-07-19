@@ -1,6 +1,13 @@
 # Olympic-Games-Tableau
 This project analyzes historical data from the Olympic Games to uncover trends, insights, and key statistics about countries, events, and athletes. The analysis is based on the **olympic_games** dataset from the European Data Institution, covering all Summer and Winter games from Athens 1896 to Beijing 2022.
 
+<p align="center">
+  <img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1IAyTM.img?w=1200&h=675&m=4&q=89" 
+       alt="Olympic Games" 
+       width="400"/>
+</p>
+
+
 ## Project Overview
 - **Objective**:
   - Understand trends in Olympic participation and performance.
@@ -9,6 +16,7 @@ This project analyzes historical data from the Olympic Games to uncover trends, 
   - Name: **olympic_games**.
   - Coverage: Summer and Winter Olympic Games from 1896 to 2022.
   - Source: European Data Institution.
+
 
 ## Report Plan
 The analysis addresses the following key questions:
@@ -27,6 +35,7 @@ The analysis addresses the following key questions:
 7. How is gender parity evolving during the Summer Olympiades?
 8. Is it true that French rower Pierre Brunet participated in the most games?
 9. During the Beijing 2022 Games, which country ranked highest in mixed double curling?
+
 
 ## Key Features
 1. **Data Cleaning**:
